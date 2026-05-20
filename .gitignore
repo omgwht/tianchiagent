@@ -1,0 +1,6 @@
+.env
+demo/server/data/cargo_dataset.jsonl
+demo_docs_release_*.zip
+__pycache__/
+*.pyc
+demo/results/
